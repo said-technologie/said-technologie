@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @said-technologie
-- 👀 I’m interested in netwoking 
+- 👀 I’m interested in netwoking
 - 🌱 I’m currently learning python and the socket module
-- 💞️ I’m looking to collaborate on ...
 - 📫 you can find me on my
       YOUTUBE channel : https://www.youtube.com/channel/UCfD0KLgqBqvUzJsTGwqG1vQ
 
